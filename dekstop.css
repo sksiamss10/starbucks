@@ -18,6 +18,7 @@ body{
     position:relative;
     margin:0;
     overflow: hidden;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
 }
 .navbar-brand{
     font-size: 2rem;
