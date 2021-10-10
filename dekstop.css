@@ -77,19 +77,22 @@ body{
     border-radius: 50%;
 }
 .img{
-    position: absolute;
-    bottom: 10%;
-    right:12%;
-    transform:rotate(-7deg)
+    margin-top: -68%;
+    margin-left:137%;
+    transform:rotate(-2deg);
 }
 .img img{
     width:300px;
     -webkit-user-drag:none;
     user-select: none;
 }
+.icons{
+    position: absolute;
+    bottom:12%;
+}
 .icons img{
     width:22px;
-    margin:15px 5px;
+    margin:1px 5px;
     z-index: -1;
     cursor:pointer;
 }
